@@ -1,4 +1,4 @@
-This project is a tic-tac-toe game application developed with Next.js technology that I learned at the front-end Bootcamp given by TechCareer.
+This project is a tic-tac-toe game application developed with Next.js and TypeScript technologies that I learned at the front-end Bootcamp given by TechCareer.
 
 
 
