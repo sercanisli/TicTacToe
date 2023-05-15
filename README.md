@@ -1,6 +1,25 @@
 This project is a tic-tac-toe game application developed with Next.js and TypeScript technologies that I learned at the front-end Bootcamp given by TechCareer.
 
 
+1-) Home Page
+![Home Page](https://github.com/sercanisli/TicTacToe/assets/128610192/078be492-d1e2-4404-984f-cbbb972d65d6)
+
+
+
+2-) State of Winning The Game
+![state of winning the game](https://github.com/sercanisli/TicTacToe/assets/128610192/8804b807-2303-4a01-ba3b-1ab1580d994f)
+
+
+
+3-) After Clicking The Reset Button
+![After pressing the reset button](https://github.com/sercanisli/TicTacToe/assets/128610192/a3390893-3403-481a-b38d-25997ec86473)
+
+
+
+4-) State of No Winner
+![state of no winner](https://github.com/sercanisli/TicTacToe/assets/128610192/6ff6db64-c454-4308-8f2d-f17c88f07774)
+
+
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
